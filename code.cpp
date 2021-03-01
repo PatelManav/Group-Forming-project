@@ -19,7 +19,7 @@ vector <int> skillsWeight;
 /**
  * This function fetchs the data from the file
  * the format of file will be:
- * first line contains 3 integers: TOTAL_SKILLS, TOTAL_MEMBERS, TeamSize
+ * first line contains 3 integers: TOTAL_MEMBERS, TOTAL_SKILLS, TeamSize
  * First TOTAL_MEMBERS number of lines are number of members and the rate of their respective skills (there are total 4 skills).
  * Next TOTAL_SKILLS lines will be weights assigned to each skill. (user's choice)
  */
